@@ -1,0 +1,3 @@
+## Express MongoDB Atlas Example
+
+This repository demonstrates using Express.js and Node.js to interact with MongoDB Atlas. Ensure Node.js and npm are installed. Sign up for a free MongoDB Atlas account. Clone the repository, navigate to it, and install dependencies. Create a .env file with your MongoDB Atlas connection string. Run the server with npm start. Accessible at http://localhost:3000. Two endpoints are available: /createCollection to create a new collection and /insertData to insert data into a collection. Provide the collection name and data in the request body as JSON. Contributions welcome via pull requests or issues. Licensed under MIT.
